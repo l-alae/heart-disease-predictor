@@ -1,6 +1,9 @@
 # Heart Disease Prediction App 🫀
 
-ReactJS, Flask, Scikit-learn, Docker 
+ReactJS, Flask, Scikit-learn, Docker, PostgreSQL, DB
+![Heart Disease Predictor Screenshot](image.png)
+> "This is the main dashboard of the Heart Disease Predictor app — users input their medical data and instantly get a personalized cardiovascular risk analysis powered by a trained ML model."
+
 A comprehensive full-stack web application that uses machine learning to predict cardiovascular disease risk based on patient medical data. Built with Flask (Python) backend and React frontend, containerized with Docker.
 
 ## 🌟 Features
