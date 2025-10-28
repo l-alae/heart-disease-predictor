@@ -69,7 +69,7 @@ The application analyzes the following medical parameters:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/l-alae/heart-disease-predictor.git
    cd disease_prediction_project
    ```
 
